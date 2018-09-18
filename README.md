@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
+This project makes requests and get responses from a RESTful API, which corresponds to the repository<br/>
+`https://github.com/artusbm/enade-api`. 
+
+To run this project locally, get the server in the repo mentioned and start both.
+
 ## Available Scripts
 
 In the project directory, you can run:
