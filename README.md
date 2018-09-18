@@ -4,6 +4,8 @@ This project makes requests and get responses from a RESTful API, which correspo
 `https://github.com/artusbm/enade-api`. 
 
 To run this project locally, get the server in the repo mentioned and start both.
+Remember to change `API_URL` variable to `http://localhost:4000/api` to test locally.
+The variable `API_URL` is in `.src/config.js` folder.
 
 ## Available Scripts
 
